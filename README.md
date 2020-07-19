@@ -22,6 +22,11 @@ The implementation(s) to the prequels are available:
 
 ### 0. A Simple Monte Carlo Program
 
+```
+Regular    Estimate of Pi = 3.141760600000
+Stratified Estimate of Pi = 3.141593920000
+```
+
 Using random sampling techniques to approximate _pi_.
 
 [Source code](./src/0_aSimpleMonteCarloProgram/main.cpp)
