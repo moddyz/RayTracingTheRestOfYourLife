@@ -1,9 +1,8 @@
 #include <gm/types/intRange.h>
+#include <gm/types/vec2iRange.h>
 
 #include <gm/functions/lengthSquared.h>
 #include <gm/functions/randomNumber.h>
-
-#include <gm/types/vec2iRange.h>
 
 #include <iomanip>
 #include <iostream>
