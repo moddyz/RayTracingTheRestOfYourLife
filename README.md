@@ -4,7 +4,7 @@ An implementation of the book [Ray Tracing: The Rest of Your Life](https://raytr
 
 ## Table of Contents
 
-- [Prequel](#prequel)
+- [Prequels](#prequels)
 - [Programs](#programs)
   * [0. A Simple Monte Carlo Program](#0-a-simple-monte-carlo-program)
 - [Library](#library)
@@ -12,7 +12,7 @@ An implementation of the book [Ray Tracing: The Rest of Your Life](https://raytr
 - [Building](#building)
 - [Build Status](#build-status)
 
-## Prequel
+## Prequels
 
 The implementation(s) to the prequels are available:  
 - [RayTracingInOneWeekend](https://github.com/moddyz/RayTracingInOneWeekend).
