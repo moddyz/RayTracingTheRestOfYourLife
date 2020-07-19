@@ -1,0 +1,12 @@
+<map id="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/ppmImageWriter.h" name="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/ppmImageWriter.h">
+<area shape="rect" id="node2" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$intRange_8h.html" title="gm/types/intRange.h" alt="" coords="5,259,148,285"/>
+<area shape="rect" id="node5" href="$imageBuffer_8h.html" title="Classes representing in&#45;memory image data. " alt="" coords="359,109,514,136"/>
+<area shape="rect" id="node6" href="$raytrace_8h.html" title="raytrace: C++ header&#45;only library for ray tracing, based on https://raytracing.github.io/books/RayTracingInOneWeekend.html " alt="" coords="523,184,654,211"/>
+<area shape="rect" id="node3" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$gm_8h.html" title="gm/gm.h" alt="" coords="249,408,323,435"/>
+<area shape="rect" id="node4" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$hostdevice_8h.html" title="gm/base/hostdevice.h" alt="" coords="211,483,361,509"/>
+<area shape="rect" id="node7" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec2iRange_8h.html" title="gm/types/vec2iRange.h" alt="" coords="206,184,366,211"/>
+<area shape="rect" id="node11" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec3f_8h.html" title="gm/types/vec3f.h" alt="" coords="423,259,546,285"/>
+<area shape="rect" id="node8" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec2i_8h.html" title="gm/types/vec2i.h" alt="" coords="225,259,347,285"/>
+<area shape="rect" id="node10" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$almost_8h.html" title="gm/base/almost.h" alt="" coords="421,333,548,360"/>
+<area shape="rect" id="node9" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$assert_8h.html" title="gm/base/assert.h" alt="" coords="274,333,397,360"/>
+</map>

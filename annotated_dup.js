@@ -1,0 +1,27 @@
+var annotated_dup =
+[
+    [ "Attribute", "classAttribute.html", "classAttribute" ],
+    [ "Box", "classBox.html", "classBox" ],
+    [ "Camera", "classCamera.html", "classCamera" ],
+    [ "CheckerTexture", "classCheckerTexture.html", "classCheckerTexture" ],
+    [ "ConstantMedium", "classConstantMedium.html", "classConstantMedium" ],
+    [ "ConstantTexture", "classConstantTexture.html", "classConstantTexture" ],
+    [ "Dielectric", "classDielectric.html", "classDielectric" ],
+    [ "DiffuseLight", "classDiffuseLight.html", "classDiffuseLight" ],
+    [ "HitRecord", "hitRecord_8h.html#classHitRecord", "hitRecord_8h_classHitRecord" ],
+    [ "ImageBuffer", "classImageBuffer.html", "classImageBuffer" ],
+    [ "ImageTexture", "classImageTexture.html", "classImageTexture" ],
+    [ "Isotropic", "classIsotropic.html", "classIsotropic" ],
+    [ "Lambert", "classLambert.html", "classLambert" ],
+    [ "Material", "classMaterial.html", "classMaterial" ],
+    [ "Metal", "classMetal.html", "classMetal" ],
+    [ "NoiseTexture", "classNoiseTexture.html", "classNoiseTexture" ],
+    [ "ObjectBVHNode", "classObjectBVHNode.html", "classObjectBVHNode" ],
+    [ "ObjectExtentComparison", "classObjectExtentComparison.html", "classObjectExtentComparison" ],
+    [ "Perlin", "classPerlin.html", "classPerlin" ],
+    [ "Ray", "classRay.html", "classRay" ],
+    [ "SceneObject", "classSceneObject.html", "classSceneObject" ],
+    [ "SpatialBVHNode", "classSpatialBVHNode.html", "classSpatialBVHNode" ],
+    [ "Sphere", "classSphere.html", "classSphere" ],
+    [ "Texture", "classTexture.html", "classTexture" ]
+];

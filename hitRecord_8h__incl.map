@@ -1,0 +1,10 @@
+<map id="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/hitRecord.h" name="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/hitRecord.h">
+<area shape="rect" id="node2" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec3f_8h.html" title="gm/types/vec3f.h" alt="" coords="24,259,147,285"/>
+<area shape="rect" id="node7" href="$material_8h.html" title="Scene object assignable material abstraction. " alt="" coords="151,109,281,136"/>
+<area shape="rect" id="node9" href="$raytrace_8h.html" title="raytrace: C++ header&#45;only library for ray tracing, based on https://raytracing.github.io/books/RayTracingInOneWeekend.html " alt="" coords="264,259,395,285"/>
+<area shape="rect" id="node3" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$gm_8h.html" title="gm/gm.h" alt="" coords="49,408,122,435"/>
+<area shape="rect" id="node5" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$almost_8h.html" title="gm/base/almost.h" alt="" coords="22,333,149,360"/>
+<area shape="rect" id="node6" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$assert_8h.html" title="gm/base/assert.h" alt="" coords="173,333,296,360"/>
+<area shape="rect" id="node4" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$hostdevice_8h.html" title="gm/base/hostdevice.h" alt="" coords="10,483,161,509"/>
+<area shape="rect" id="node8" href="$ray_8h.html" title="A representation of a ray. " alt="" coords="146,184,249,211"/>
+</map>

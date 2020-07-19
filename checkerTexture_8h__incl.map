@@ -1,0 +1,10 @@
+<map id="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/checkerTexture.h" name="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/checkerTexture.h">
+<area shape="rect" id="node2" href="$texture_8h.html" title="Texture: 2D color sampling for a geometric surface. " alt="" coords="159,109,283,136"/>
+<area shape="rect" id="node3" href="$raytrace_8h.html" title="raytrace: C++ header&#45;only library for ray tracing, based on https://raytracing.github.io/books/RayTracingInOneWeekend.html " alt="" coords="5,184,136,211"/>
+<area shape="rect" id="node4" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec2f_8h.html" title="gm/types/vec2f.h" alt="" coords="160,184,283,211"/>
+<area shape="rect" id="node9" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec3f_8h.html" title="gm/types/vec3f.h" alt="" coords="308,184,431,211"/>
+<area shape="rect" id="node5" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$gm_8h.html" title="gm/gm.h" alt="" coords="259,333,333,360"/>
+<area shape="rect" id="node7" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$almost_8h.html" title="gm/base/almost.h" alt="" coords="158,259,285,285"/>
+<area shape="rect" id="node8" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$assert_8h.html" title="gm/base/assert.h" alt="" coords="309,259,432,285"/>
+<area shape="rect" id="node6" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$hostdevice_8h.html" title="gm/base/hostdevice.h" alt="" coords="221,408,371,435"/>
+</map>

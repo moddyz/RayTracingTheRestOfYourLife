@@ -1,0 +1,7 @@
+<map id="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/sceneObject.h" name="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/sceneObject.h">
+<area shape="rect" id="node2" href="$box_8h_source.html" title="/home/richard/code\l/RayTracingTheRestOfYourLife\l/src/raytrace/box.h" alt="" coords="5,109,211,165"/>
+<area shape="rect" id="node3" href="$constantMedium_8h.html" title="Representation of a constant density medium. " alt="" coords="235,109,442,165"/>
+<area shape="rect" id="node4" href="$objectBVH_8h.html" title="Bounding volume hierarchy acceleration structure based on object partioning. " alt="" coords="467,109,672,165"/>
+<area shape="rect" id="node5" href="$spatialBVH_8h.html" title="Bounding volume hierarchy acceleration structure based on spatial partitioning. " alt="" coords="696,109,901,165"/>
+<area shape="rect" id="node6" href="$sphere_8h.html" title="Representation of a box geometry or cuboid. " alt="" coords="925,109,1131,165"/>
+</map>

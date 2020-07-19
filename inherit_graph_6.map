@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classMaterial.html" title="Material is the abstract base class of all material(s). " alt="" coords="5,107,73,133"/>
+<area shape="rect" id="node2" href="$classDielectric.html" title="The dielectric material refracts incoming rays. " alt="" coords="129,5,206,32"/>
+<area shape="rect" id="node3" href="$classDiffuseLight.html" title="An emissive. " alt="" coords="121,56,213,83"/>
+<area shape="rect" id="node4" href="$classIsotropic.html" title="A material which scatters a ray in a random unit direction. " alt="" coords="131,107,203,133"/>
+<area shape="rect" id="node5" href="$classLambert.html" title="The lambert material scatters a ray towards a point within random unit sphere tangent to the hit poin..." alt="" coords="133,157,202,184"/>
+<area shape="rect" id="node6" href="$classMetal.html" title="The metal material reflects incoming rays &quot;perfectly&quot;. " alt="" coords="140,208,195,235"/>
+</map>

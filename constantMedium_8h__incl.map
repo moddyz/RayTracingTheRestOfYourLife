@@ -1,0 +1,43 @@
+<map id="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/constantMedium.h" name="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/constantMedium.h">
+<area shape="rect" id="node2" href="$attribute_8h.html" title="Container for time&#45;sampled values. " alt="" coords="203,184,333,211"/>
+<area shape="rect" id="node3" href="$ray_8h.html" title="A representation of a ray. " alt="" coords="281,333,383,360"/>
+<area shape="rect" id="node23" href="$hitRecord_8h.html" title="Record of a ray hitting a SceneObject. " alt="" coords="642,184,782,211"/>
+<area shape="rect" id="node24" href="$material_8h.html" title="Scene object assignable material abstraction. " alt="" coords="356,259,487,285"/>
+<area shape="rect" id="node25" href="$isotropic_8h.html" title="Isotropic material representation. " alt="" coords="921,109,1055,136"/>
+<area shape="rect" id="node27" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$constants_8h.html" title="gm/base/constants.h" alt="" coords="612,259,756,285"/>
+<area shape="rect" id="node29" href="$texture_8h.html" title="Texture: 2D color sampling for a geometric surface. " alt="" coords="2166,333,2290,360"/>
+<area shape="rect" id="node30" href="$sceneObject_8h.html" title="Ray&#45;traceable scene object representation. " alt="" coords="780,259,937,285"/>
+<area shape="rect" id="node32" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$contains_8h.html" title="gm/functions/contains.h" alt="" coords="3206,259,3367,285"/>
+<area shape="rect" id="node41" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$rayPosition_8h.html" title="gm/functions/rayPosition.h" alt="" coords="2258,109,2435,136"/>
+<area shape="rect" id="node45" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$raySphereIntersection_8h.html" title="gm/functions/raySphereIntersection.h" alt="" coords="2843,109,3082,136"/>
+<area shape="rect" id="node11" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$linearInterpolation_8h.html" title="gm/functions/linearInterpolation.h" alt="" coords="1547,259,1762,285"/>
+<area shape="rect" id="node12" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$floatRange_8h.html" title="gm/types/floatRange.h" alt="" coords="923,333,1077,360"/>
+<area shape="rect" id="node20" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$intRange_8h.html" title="gm/types/intRange.h" alt="" coords="755,333,898,360"/>
+<area shape="rect" id="node4" href="$raytrace_8h.html" title="raytrace: C++ header&#45;only library for ray tracing, based on https://raytracing.github.io/books/RayTracingInOneWeekend.html " alt="" coords="405,408,536,435"/>
+<area shape="rect" id="node6" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec3f_8h.html" title="gm/types/vec3f.h" alt="" coords="2341,408,2464,435"/>
+<area shape="rect" id="node7" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$gm_8h.html" title="gm/gm.h" alt="" coords="3053,557,3126,584"/>
+<area shape="rect" id="node9" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$almost_8h.html" title="gm/base/almost.h" alt="" coords="2501,483,2627,509"/>
+<area shape="rect" id="node10" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$assert_8h.html" title="gm/base/assert.h" alt="" coords="3152,483,3275,509"/>
+<area shape="rect" id="node8" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$hostdevice_8h.html" title="gm/base/hostdevice.h" alt="" coords="3014,632,3165,659"/>
+<area shape="rect" id="node13" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$mat3f_8h.html" title="gm/types/mat3f.h" alt="" coords="2902,408,3026,435"/>
+<area shape="rect" id="node14" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$mat4f_8h.html" title="gm/types/mat4f.h" alt="" coords="2754,408,2878,435"/>
+<area shape="rect" id="node15" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec2f_8h.html" title="gm/types/vec2f.h" alt="" coords="3152,408,3275,435"/>
+<area shape="rect" id="node16" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec2fRange_8h.html" title="gm/types/vec2fRange.h" alt="" coords="1389,333,1550,360"/>
+<area shape="rect" id="node17" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec3fRange_8h.html" title="gm/types/vec3fRange.h" alt="" coords="1203,333,1365,360"/>
+<area shape="rect" id="node18" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec4f_8h.html" title="gm/types/vec4f.h" alt="" coords="2556,408,2679,435"/>
+<area shape="rect" id="node19" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec4fRange_8h.html" title="gm/types/vec4fRange.h" alt="" coords="1574,333,1735,360"/>
+<area shape="rect" id="node26" href="$randomUnitVector_8h.html" title="Utility for generating a random unit vector. " alt="" coords="943,184,1132,211"/>
+<area shape="rect" id="node28" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$randomNumber_8h.html" title="gm/functions/randomNumber.h" alt="" coords="962,259,1163,285"/>
+<area shape="rect" id="node33" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec2i_8h.html" title="gm/types/vec2i.h" alt="" coords="3496,408,3619,435"/>
+<area shape="rect" id="node34" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec2iRange_8h.html" title="gm/types/vec2iRange.h" alt="" coords="3779,333,3939,360"/>
+<area shape="rect" id="node35" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec3i_8h.html" title="gm/types/vec3i.h" alt="" coords="3693,408,3816,435"/>
+<area shape="rect" id="node36" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec3iRange_8h.html" title="gm/types/vec3iRange.h" alt="" coords="4013,333,4173,360"/>
+<area shape="rect" id="node37" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec4i_8h.html" title="gm/types/vec4i.h" alt="" coords="3299,408,3421,435"/>
+<area shape="rect" id="node38" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$vec4iRange_8h.html" title="gm/types/vec4iRange.h" alt="" coords="3544,333,3704,360"/>
+<area shape="rect" id="node39" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$max_8h.html" title="gm/functions/max.h" alt="" coords="3078,333,3215,360"/>
+<area shape="rect" id="node40" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$min_8h.html" title="gm/functions/min.h" alt="" coords="2920,333,3053,360"/>
+<area shape="rect" id="node42" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$length_8h.html" title="gm/functions/length.h" alt="" coords="2684,184,2831,211"/>
+<area shape="rect" id="node43" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$lengthSquared_8h.html" title="gm/functions/lengthSquared.h" alt="" coords="2660,259,2855,285"/>
+<area shape="rect" id="node44" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$dotProduct_8h.html" title="gm/functions/dotProduct.h" alt="" coords="2670,333,2845,360"/>
+<area shape="rect" id="node46" href="/home/richard/code/RayTracingTheRestOfYourLife/docs/gm.tag$quadraticRoots_8h.html" title="gm/functions/quadraticRoots.h" alt="" coords="4248,333,4448,360"/>
+</map>

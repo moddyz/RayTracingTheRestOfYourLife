@@ -1,0 +1,12 @@
+<map id="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/material.h" name="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/material.h">
+<area shape="rect" id="node2" href="$box_8h_source.html" title="/home/richard/code\l/RayTracingTheRestOfYourLife\l/src/raytrace/box.h" alt="" coords="5,213,211,269"/>
+<area shape="rect" id="node3" href="$constantMedium_8h.html" title="Representation of a constant density medium. " alt="" coords="1062,317,1269,373"/>
+<area shape="rect" id="node4" href="$dielectric_8h.html" title="Dielectric material representation for glass, diamond, and other material which refract light..." alt="" coords="235,213,440,269"/>
+<area shape="rect" id="node5" href="$diffuseLight_8h.html" title="A diffuse emissive material. " alt="" coords="1203,213,1408,269"/>
+<area shape="rect" id="node6" href="$hitRecord_8h.html" title="Record of a ray hitting a SceneObject. " alt="" coords="953,109,1159,165"/>
+<area shape="rect" id="node7" href="$isotropic_8h.html" title="Isotropic material representation. " alt="" coords="464,213,669,269"/>
+<area shape="rect" id="node8" href="$lambert_8h.html" title="Lambert material representation. " alt="" coords="1432,213,1637,269"/>
+<area shape="rect" id="node9" href="$metal_8h.html" title="Metal material representation. " alt="" coords="1661,213,1867,269"/>
+<area shape="rect" id="node10" href="$objectBVH_8h.html" title="Bounding volume hierarchy acceleration structure based on object partioning. " alt="" coords="693,213,899,269"/>
+<area shape="rect" id="node11" href="$spatialBVH_8h.html" title="Bounding volume hierarchy acceleration structure based on spatial partitioning. " alt="" coords="923,213,1128,269"/>
+</map>

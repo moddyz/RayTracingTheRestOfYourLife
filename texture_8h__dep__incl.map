@@ -1,0 +1,10 @@
+<map id="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/texture.h" name="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/texture.h">
+<area shape="rect" id="node2" href="$checkerTexture_8h.html" title="A texture providing an alternating checker board pattern. " alt="" coords="5,109,211,165"/>
+<area shape="rect" id="node3" href="$constantMedium_8h.html" title="Representation of a constant density medium. " alt="" coords="558,213,765,269"/>
+<area shape="rect" id="node4" href="$constantTexture_8h.html" title="A texture providing a constant color for any sampling coordinates. " alt="" coords="285,109,491,165"/>
+<area shape="rect" id="node5" href="$diffuseLight_8h.html" title="A diffuse emissive material. " alt="" coords="515,109,720,165"/>
+<area shape="rect" id="node6" href="$imageTexture_8h_source.html" title="/home/richard/code\l/RayTracingTheRestOfYourLife\l/src/raytrace/imageTexture.h" alt="" coords="744,109,949,165"/>
+<area shape="rect" id="node7" href="$isotropic_8h.html" title="Isotropic material representation. " alt="" coords="973,109,1179,165"/>
+<area shape="rect" id="node8" href="$lambert_8h.html" title="Lambert material representation. " alt="" coords="1203,109,1408,165"/>
+<area shape="rect" id="node9" href="$noiseTexture_8h.html" title="An image file&#45;based texture. " alt="" coords="1432,109,1637,165"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/ray.h" name="/home/richard/code/RayTracingTheRestOfYourLife/src/raytrace/ray.h">
+<area shape="rect" id="node2" href="$attribute_8h.html" title="Container for time&#45;sampled values. " alt="" coords="144,213,349,269"/>
+<area shape="rect" id="node3" href="$box_8h_source.html" title="/home/richard/code\l/RayTracingTheRestOfYourLife\l/src/raytrace/box.h" alt="" coords="259,317,464,373"/>
+<area shape="rect" id="node4" href="$constantMedium_8h.html" title="Representation of a constant density medium. " alt="" coords="1066,421,1273,477"/>
+<area shape="rect" id="node5" href="$sphere_8h.html" title="Representation of a box geometry or cuboid. " alt="" coords="29,317,235,373"/>
+<area shape="rect" id="node6" href="$material_8h.html" title="Scene object assignable material abstraction. " alt="" coords="1277,109,1483,165"/>
+<area shape="rect" id="node15" href="$sceneObject_8h.html" title="Ray&#45;traceable scene object representation. " alt="" coords="475,213,680,269"/>
+<area shape="rect" id="node7" href="$dielectric_8h.html" title="Dielectric material representation for glass, diamond, and other material which refract light..." alt="" coords="1507,317,1712,373"/>
+<area shape="rect" id="node8" href="$diffuseLight_8h.html" title="A diffuse emissive material. " alt="" coords="1736,317,1941,373"/>
+<area shape="rect" id="node9" href="$hitRecord_8h.html" title="Record of a ray hitting a SceneObject. " alt="" coords="1137,213,1343,269"/>
+<area shape="rect" id="node10" href="$isotropic_8h.html" title="Isotropic material representation. " alt="" coords="997,317,1203,373"/>
+<area shape="rect" id="node11" href="$lambert_8h.html" title="Lambert material representation. " alt="" coords="1965,317,2171,373"/>
+<area shape="rect" id="node12" href="$metal_8h.html" title="Metal material representation. " alt="" coords="1277,317,1483,373"/>
+<area shape="rect" id="node13" href="$objectBVH_8h.html" title="Bounding volume hierarchy acceleration structure based on object partioning. " alt="" coords="768,317,973,373"/>
+<area shape="rect" id="node14" href="$spatialBVH_8h.html" title="Bounding volume hierarchy acceleration structure based on spatial partitioning. " alt="" coords="539,317,744,373"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SceneObject" name="SceneObject">
+<area shape="rect" id="node2" href="$classBox.html" title="Box is a 3D rectilinear geometric surface with 6 sides. " alt="" coords="5,80,51,107"/>
+<area shape="rect" id="node3" href="$classConstantMedium.html" title="ConstantMedium is a 3D rectilinear geometric surface with 6 sides. " alt="" coords="75,80,197,107"/>
+<area shape="rect" id="node4" href="$classObjectBVHNode.html" title="ObjectBVHNode is a single node in the bounding volume hierarchy. " alt="" coords="221,80,339,107"/>
+<area shape="rect" id="node5" href="$classSpatialBVHNode.html" title="SpatialBVHNode is a single node in the bounding volume hierarchy. " alt="" coords="363,80,485,107"/>
+<area shape="rect" id="node6" href="$classSphere.html" title="Sphere is a 3D geometric surface described by a origin and radius, such that the distance between all..." alt="" coords="509,80,571,107"/>
+</map>

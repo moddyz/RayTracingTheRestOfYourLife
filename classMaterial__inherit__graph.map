@@ -1,0 +1,7 @@
+<map id="Material" name="Material">
+<area shape="rect" id="node2" href="$classDielectric.html" title="The dielectric material refracts incoming rays. " alt="" coords="5,80,83,107"/>
+<area shape="rect" id="node3" href="$classDiffuseLight.html" title="An emissive. " alt="" coords="107,80,199,107"/>
+<area shape="rect" id="node4" href="$classIsotropic.html" title="A material which scatters a ray in a random unit direction. " alt="" coords="224,80,296,107"/>
+<area shape="rect" id="node5" href="$classLambert.html" title="The lambert material scatters a ray towards a point within random unit sphere tangent to the hit poin..." alt="" coords="320,80,389,107"/>
+<area shape="rect" id="node6" href="$classMetal.html" title="The metal material reflects incoming rays &quot;perfectly&quot;. " alt="" coords="414,80,469,107"/>
+</map>
