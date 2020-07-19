@@ -34,8 +34,8 @@ int main( int i_argc, char** i_argv )
 
         // Stratified sampling, by random sample in subdivided square regions.
         coordinate =
-            gm::Vec2f( 2.0f * ( ( sampleIndex.X() + gm::RandomNumber( normalisedRange ) ) / sqrtNumSamples ) - 1.0f,
-                       2.0f * ( ( sampleIndex.Y() + gm::RandomNumber( normalisedRange ) ) / sqrtNumSamples ) - 1.0f );
+            gm::Vec2f( 2.0f * ( ( sampleIndex.X() + gm::RandomNumber( normalisedRange ) ) / sqrtNumSamples ) - radius,
+                       2.0f * ( ( sampleIndex.Y() + gm::RandomNumber( normalisedRange ) ) / sqrtNumSamples ) - radius );
         if ( gm::LengthSquared( coordinate ) < radius )
         {
             insideCircleStratified++;
